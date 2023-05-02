@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block body %} 
+	<ul>
+		{% for registered in registered %} 
+		<li>{{ registered }}</li>
+		{% endfor %} 
+	</ul>
+{% endblock %}

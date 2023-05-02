@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Polygon
+comment1.params=pBildschirm\ pStift
+comment1.target=Polygon(sum.kern.Bildschirm,\ sum.kern.Stift)
+comment2.params=size\ n
+comment2.target=void\ draw(int,\ int)
+numComments=3

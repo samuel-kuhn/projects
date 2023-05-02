@@ -1,0 +1,3 @@
+ASCII was originally created as a standard for sending text over phone lines, and first used with teleprinters back in 1963.
+It consists of 128 characters (7 bit).
+Every ASCII character has an equivalent number, often used in programming languages such as Python.
