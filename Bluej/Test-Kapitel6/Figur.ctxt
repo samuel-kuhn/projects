@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Figur
-comment1.params=pBildschirm\ pStift
-comment1.target=Figur(sum.kern.Bildschirm,\ sum.kern.Stift)
-comment2.params=
-comment2.target=void\ draw()
-comment3.params=size
-comment3.target=void\ draw(int)
-numComments=4

@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Dreieck
-comment1.params=pBildschirm\ pStift
-comment1.target=Dreieck(sum.kern.Bildschirm,\ sum.kern.Stift)
-comment2.params=size
-comment2.target=void\ draw(int)
-numComments=3
